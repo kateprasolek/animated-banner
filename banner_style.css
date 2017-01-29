@@ -1,0 +1,9 @@
+
+
+
+.banner {
+	border: 1px solid orange;
+	height: 400px;
+	width: 100%;
+	background-image: url("background3.png");
+}
